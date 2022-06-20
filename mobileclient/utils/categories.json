@@ -1,0 +1,32 @@
+[
+  {
+    "id": "2",
+    "name": "Sebzeler",
+    "img": "https://img.icons8.com/external-icongeek26-linear-colour-icongeek26/344/external-vegetable-healthy-lifestyle-icongeek26-linear-colour-icongeek26.png"
+  },
+  {
+    "id": "1",
+    "name": "Meyveler",
+    "img": "https://img.icons8.com/external-photo3ideastudio-flat-photo3ideastudio/344/external-fruit-supermarket-photo3ideastudio-flat-photo3ideastudio.png"
+  },
+  {
+    "id": "3",
+    "name": "Baklagiller",
+    "img": "https://img.icons8.com/external-flaticons-flat-flat-icons/344/external-vegan-dieting-flaticons-flat-flat-icons-2.png"
+  },
+  {
+    "id": "4",
+    "name": "Kuru Yemiş",
+    "img": "https://img.icons8.com/external-justicon-lineal-color-justicon/344/external-hazelnut-healthy-food-and-vegan-justicon-lineal-color-justicon.png"
+  },
+  {
+    "id": "5",
+    "name": "Deniz Ürünleri",
+    "img": "https://img.icons8.com/external-victoruler-gradient-victoruler/344/external-fish-animals-victoruler-gradient-victoruler.png"
+  },
+  {
+    "id": "6",
+    "name": "Hayvansal Gıda",
+    "img": "https://img.icons8.com/external-victoruler-flat-victoruler/344/external-cow-animals-victoruler-flat-victoruler.png"
+  }
+]
