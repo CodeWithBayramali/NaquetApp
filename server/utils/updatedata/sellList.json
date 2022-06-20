@@ -1,0 +1,723 @@
+[
+  {
+    "id": "1",
+    "categoryId": "1",
+    "name": "Çilek"
+  },
+  {
+    "id": "2",
+    "categoryId": "1",
+    "name": "Elma"
+  },
+  {
+    "id": "3",
+    "categoryId": "1",
+    "name": "Armut"
+  },
+  {
+    "id": "4",
+    "categoryId": "1",
+    "name": "Kiraz"
+  },
+  {
+    "id": "5",
+    "categoryId": "1",
+    "name": "Vişne"
+  },
+  {
+    "id": "6",
+    "categoryId": "1",
+    "name": "Mandalina"
+  },
+  {
+    "id": "7",
+    "categoryId": "1",
+    "name": "Portakal"
+  },
+  {
+    "id": "8",
+    "categoryId": "1",
+    "name": "Turunç"
+  },
+  {
+    "id": "9",
+    "categoryId": "1",
+    "name": "Kumkat"
+  },
+  {
+    "id": "10",
+    "categoryId": "1",
+    "name": "Ayva"
+  },
+  {
+    "id": "11",
+    "categoryId": "1",
+    "name": "Kivi"
+  },
+  {
+    "id": "12",
+    "categoryId": "1",
+    "name": "Üzüm"
+  },
+  {
+    "id": "13",
+    "categoryId": "1",
+    "name": "Erik"
+  },
+  {
+    "id": "14",
+    "categoryId": "1",
+    "name": "İncir"
+  },
+  {
+    "id": "15",
+    "categoryId": "1",
+    "name": "Alıç"
+  },
+  {
+    "id": "16",
+    "categoryId": "1",
+    "name": "Hurma"
+  },
+  {
+    "id": "17",
+    "categoryId": "1",
+    "name": "Karadut"
+  },
+  {
+    "id": "18",
+    "categoryId": "1",
+    "name": "Beyaz Dut"
+  },
+  {
+    "id": "19",
+    "categoryId": "1",
+    "name": "Frambuaz"
+  },
+  {
+    "id": "20",
+    "categoryId": "1",
+    "name": "Kavun"
+  },
+  {
+    "id": "21",
+    "categoryId": "1",
+    "name": "Karpuz"
+  },
+  {
+    "id": "22",
+    "categoryId": "1",
+    "name": "Kayısı"
+  },
+  {
+    "id": "23",
+    "categoryId": "1",
+    "name": "Muz"
+  },
+  {
+    "id": "24",
+    "categoryId": "1",
+    "name": "Şeftali"
+  },
+  {
+    "id": "25",
+    "categoryId": "1",
+    "name": "Dut"
+  },
+  {
+    "id": "26",
+    "categoryId": "1",
+    "name": "Yaban Mersini"
+  },
+  {
+    "id": "27",
+    "categoryId": "1",
+    "name": "Kuşburnu"
+  },
+  {
+    "id": "28",
+    "categoryId": "1",
+    "name": "Ananas"
+  },
+  {
+    "id": "29",
+    "categoryId": "1",
+    "name": "Mango"
+  },
+  {
+    "id": "30",
+    "categoryId": "1",
+    "name": "Avokado"
+  },
+  {
+    "id": "31",
+    "categoryId": "1",
+    "name": "Hindistan Cevizi"
+  },
+  {
+    "id": "32",
+    "categoryId": "1",
+    "name": "Papaya"
+  },
+  {
+    "id": "33",
+    "categoryId": "1",
+    "name": "Pomelo"
+  },
+  {
+    "id": "34",
+    "categoryId": "1",
+    "name": "Hurma"
+  },
+  {
+    "id": "35",
+    "categoryId": "1",
+    "name": "Yıldız Meyvesi"
+  },
+  {
+    "id": "36",
+    "categoryId": "1",
+    "name": "Pitaya"
+  },
+  {
+    "id": "37",
+    "categoryId": "1",
+    "name": "Çarkıfelek"
+  },
+  {
+    "id": "38",
+    "categoryId": "1",
+    "name": "Liçi"
+  },
+  {
+    "id": "39",
+    "categoryId": "1",
+    "name": "Böğürtlen"
+  },
+  {
+    "id": "40",
+    "categoryId": "1",
+    "name": "Nar"
+  },
+  {
+    "id": "41",
+    "categoryId": "1",
+    "name": "Greyfurt"
+  },
+  {
+    "id": "42",
+    "categoryId": "1",
+    "name": "Muşmula"
+  },
+  {
+    "id": "43",
+    "categoryId": "2",
+    "name": "Patates"
+  },
+  {
+    "id": "44",
+    "categoryId": "2",
+    "name": "Kabak"
+  },
+  {
+    "id": "45",
+    "categoryId": "2",
+    "name": "Patlıcan"
+  },
+  {
+    "id": "46",
+    "categoryId": "2",
+    "name": "Sivri Biber"
+  },
+  {
+    "id": "47",
+    "categoryId": "2",
+    "name": "Domates"
+  },
+  {
+    "id": "48",
+    "categoryId": "2",
+    "name": "Salatalık"
+  },
+  {
+    "id": "49",
+    "categoryId": "2",
+    "name": "Ispanak"
+  },
+  {
+    "id": "50",
+    "categoryId": "2",
+    "name": "Semizotu"
+  },
+  {
+    "id": "51",
+    "categoryId": "2",
+    "name": "Rezene"
+  },
+  {
+    "id": "52",
+    "categoryId": 2,
+    "name": "Marul"
+  },
+  {
+    "id": "53",
+    "categoryId": 2,
+    "name": "Üzüm Yaprağı"
+  },
+  {
+    "id": "54",
+    "categoryId": "2",
+    "name": "Soğan"
+  },
+  {
+    "id": "55",
+    "categoryId": "2",
+    "name": "Sarımsak"
+  },
+  {
+    "id": "56",
+    "categoryId": "2",
+    "name": "Dereotu"
+  },
+  {
+    "id": "57",
+    "categoryId": "2",
+    "name": "Dolmalık Biber"
+  },
+  {
+    "id": "58",
+    "categoryId": "2",
+    "name": "Kereviz"
+  },
+  {
+    "id": "59",
+    "categoryId": "2",
+    "name": "Lahana"
+  },
+  {
+    "id": "60",
+    "categoryId": "2",
+    "name": "Brokoli"
+  },
+  {
+    "id": "61",
+    "categoryId": "2",
+    "name": "Havuç"
+  },
+  {
+    "id": "62",
+    "categoryId": "2",
+    "name": "Pırasa"
+  },
+  {
+    "id": "63",
+    "categoryId": "2",
+    "name": "Ispanak"
+  },
+  {
+    "id": "64",
+    "categoryId": "2",
+    "name": "Pazı"
+  },
+  {
+    "id": "65",
+    "categoryId": "2",
+    "name": "Turp"
+  },
+  {
+    "id": "66",
+    "categoryId": "2",
+    "name": "Karnabahar"
+  },
+  {
+    "id": "67",
+    "categoryId": "2",
+    "name": "Enginar"
+  },
+  {
+    "id": "68",
+    "categoryId": "2",
+    "name": "Bezelye"
+  },
+  {
+    "id": "69",
+    "categoryId": "2",
+    "name": "Kekik"
+  },
+  {
+    "id": "70",
+    "categoryId": "2",
+    "name": "Ebegümeci"
+  },
+  {
+    "id": "71",
+    "categoryId": "2",
+    "name": "Mantar"
+  },
+  {
+    "id": "72",
+    "categoryId": "2",
+    "name": "Bamya"
+  },
+  {
+    "id": "73",
+    "categoryId": "2",
+    "name": "Tarçın"
+  },
+  {
+    "id": "74",
+    "categoryId": "2",
+    "name": "Roka"
+  },
+
+  {
+    "id": "75",
+    "categoryId": "3",
+    "name": "Fasulye"
+  },
+  {
+    "id": "76",
+    "categoryId": "3",
+    "name": "Bakla"
+  },
+  {
+    "id": "77",
+    "categoryId": "3",
+    "name": "Bezelye"
+  },
+  {
+    "id": "78",
+    "categoryId": "3",
+    "name": "Nohut"
+  },
+  {
+    "id": "79",
+    "categoryId": "3",
+    "name": "Kırmızı Mercimek"
+  },
+  {
+    "id": "80",
+    "categoryId": "3",
+    "name": "Börülce"
+  },
+  {
+    "id": "81",
+    "categoryId": "3",
+    "name": "Barbunya"
+  },
+  {
+    "id": "82",
+    "categoryId": "3",
+    "name": "Soya Fasulyesi"
+  },
+  {
+    "id": "83",
+    "categoryId": "3",
+    "name": "Yeşil Mercimek"
+  },
+  {
+    "id": "84",
+    "categoryId": "3",
+    "name": "Sarı Mercimek"
+  },
+  {
+    "id": "85",
+    "categoryId": "3",
+    "name": "Mısır"
+  },
+  {
+    "id": "86",
+    "categoryId": "4",
+    "name": "Antep Fıstığı"
+  },
+  {
+    "id": "87",
+    "categoryId": "4",
+    "name": "Badem"
+  },
+  {
+    "id": "88",
+    "categoryId": "4",
+    "name": "Ceviz"
+  },
+  {
+    "id": "89",
+    "categoryId": "4",
+    "name": "Fındık"
+  },
+  {
+    "id": "90",
+    "categoryId": "4",
+    "name": "Fıstık"
+  },
+  {
+    "id": "91",
+    "categoryId": "4",
+    "name": "Kaju"
+  },
+  {
+    "id": "92",
+    "categoryId": "4",
+    "name": "Badem"
+  },
+  {
+    "id": "93",
+    "categoryId": "4",
+    "name": "Çam Fıstığı"
+  },
+  {
+    "id": "94",
+    "categoryId": "4",
+    "name": "Ayçekirdeği"
+  },
+  {
+    "id": "95",
+    "categoryId": "5",
+    "name": "Midye"
+  },
+  {
+    "id": "96",
+    "categoryId": "5",
+    "name": "Istakoz"
+  },
+  {
+    "id": "97",
+    "categoryId": "5",
+    "name": "Ahtapot"
+  },
+  {
+    "id": "98",
+    "categoryId": "5",
+    "name": "Karides"
+  },
+  {
+    "id": "99",
+    "categoryId": "5",
+    "name": "İstiridye"
+  },
+  {
+    "id": "100",
+    "categoryId": "5",
+    "name": "Yengeç"
+  },
+  {
+    "id": "101",
+    "categoryId": "5",
+    "name": "Kalamar"
+  },
+  {
+    "id": "102",
+    "categoryId": "5",
+    "name": "Langust"
+  },
+  {
+    "id": "103",
+    "categoryId": "5",
+    "name": "Akya"
+  },
+  {
+    "id": "104",
+    "categoryId": "5",
+    "name": "Alabalık"
+  },
+  {
+    "id": "105",
+    "categoryId": "5",
+    "name": "Barbun"
+  },
+  {
+    "id": "106",
+    "categoryId": "5",
+    "name": "Çinekop"
+  },
+  {
+    "id": "107",
+    "categoryId": "5",
+    "name": "Çipura"
+  },
+  {
+    "id": "108",
+    "categoryId": "5",
+    "name": "Hamsi"
+  },
+  {
+    "id": "109",
+    "categoryId": "5",
+    "name": "İskorpit"
+  },
+  {
+    "id": "110",
+    "categoryId": "5",
+    "name": "İstavrit"
+  },
+  {
+    "id": "111",
+    "categoryId": "5",
+    "name": "İzmarit"
+  },
+  {
+    "id": "112",
+    "categoryId": "5",
+    "name": "Kalkan"
+  },
+  {
+    "id": "113",
+    "categoryId": "5",
+    "name": "Karagöz"
+  },
+  {
+    "id": "114",
+    "categoryId": "5",
+    "name": "Kefal"
+  },
+  {
+    "id": "115",
+    "categoryId": "5",
+    "name": "Kılıç"
+  },
+  {
+    "id": "116",
+    "categoryId": "5",
+    "name": "Kırlangıç"
+  },
+  {
+    "id": "117",
+    "categoryId": "5",
+    "name": "Kolyoz"
+  },
+  {
+    "id": "118",
+    "categoryId": "5",
+    "name": "Kupes"
+  },
+  {
+    "id": "119",
+    "categoryId": "5",
+    "name": "Lahos"
+  },
+  {
+    "id": "120",
+    "categoryId": "5",
+    "name": "Levrek"
+  },
+  {
+    "id": "121",
+    "categoryId": "5",
+    "name": "Lüfer"
+  },
+  {
+    "id": "122",
+    "categoryId": "5",
+    "name": "Melanur"
+  },
+  {
+    "id": "123",
+    "categoryId": "5",
+    "name": "Mercan"
+  },
+  {
+    "id": "124",
+    "categoryId": "5",
+    "name": "Mezgit"
+  },
+  {
+    "id": "125",
+    "categoryId": "5",
+    "name": "Mürekkep"
+  },
+  {
+    "id": "126",
+    "categoryId": "5",
+    "name": "Orfoz"
+  },
+  {
+    "id": "127",
+    "categoryId": "5",
+    "name": "Palamut"
+  },
+  {
+    "id": "128",
+    "categoryId": "5",
+    "name": "Pisi"
+  },
+  {
+    "id": "129",
+    "categoryId": "5",
+    "name": "Sardalya"
+  },
+  {
+    "id": "130",
+    "categoryId": "5",
+    "name": "Sazan"
+  },
+  {
+    "id": "131",
+    "categoryId": "5",
+    "name": "Sinarit"
+  },
+  {
+    "id": "132",
+    "categoryId": "5",
+    "name": "Uskumru"
+  },
+  {
+    "id": "133",
+    "categoryId": "5",
+    "name": "Turina"
+  },
+  {
+    "id": "134",
+    "categoryId": "5",
+    "name": "Torik"
+  },
+  {
+    "id": "135",
+    "categoryId": "5",
+    "name": "Trança"
+  },
+  {
+    "id": "136",
+    "categoryId": "5",
+    "name": ""
+  },
+  {
+    "id": "137",
+    "categoryId": "6",
+    "name": "Tavuk"
+  },
+  {
+    "id": "138",
+    "categoryId": "6",
+    "name": "Yumurta"
+  },
+  {
+    "id": "139",
+    "categoryId": "6",
+    "name": "Süt"
+  },
+  {
+    "id": "140",
+    "categoryId": "6",
+    "name": "Bal"
+  },
+  {
+    "id": "141",
+    "categoryId": "6",
+    "name": "Yoğurt"
+  },
+  {
+    "id": "142",
+    "categoryId": "6",
+    "name": "Kaymak"
+  },
+  {
+    "id": "143",
+    "categoryId": "6",
+    "name": "Peynir"
+  },
+  {
+    "id": "144",
+    "categoryId": "6",
+    "name": "Yağ"
+  }
+]
